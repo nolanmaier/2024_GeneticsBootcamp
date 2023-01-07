@@ -24,7 +24,7 @@ To become acquainted with CRISPR screens in mammalian cells. Students will be in
 1:00-3:00   Analyzing and exploring CRISPR screen data for hypothesis generation
 
 ## Materials
-The sequencing data processing section of the course will use materials from this repo.
+The sequencing data processing section of the course will use [sample_illumina_data.fastq](sample_illumina_data.fastq) and [hCRISPRiv2_sgRNA_list.xlsx](hCRISPRiv2_sgRNA_list.xlsx).
 
-The CRISPR screen analysis section of the course will use the Jupyter notebook and data in this repo. The notebook can be run directly in a Binder instance [HERE](https://mybinder.org/v2/gh/nolanmaier/genetics_bootcamp/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fnolanmaier%2Fgenetics_bootcamp%2Fblob%2Fmain%2FCRISPR_screen_analysis.ipynb). 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nolanmaier/genetics_bootcamp/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fnolanmaier%2Fgenetics_bootcamp%2Fblob%2Fmain%2FCRISPR_screen_analysis.ipynb)
+The CRISPR screen analysis section of the course will use the Jupyter notebook [CRISPR_screen_analysis.ipynb](CRISPR_screen_analysis.ipynb) and the datasets in [CRISPR_screendata](CRISPR_screendata). The notebook can be run directly in your browser using Binder through this link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nolanmaier/2023_GeneticsBootcamp/HEAD?labpath=CRISPR_screen_analysis.ipynb)
+(you may need to disable ad blockers on your browser).
