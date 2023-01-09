@@ -24,7 +24,9 @@ To become acquainted with CRISPR screens in mammalian cells. Students will be in
 1:00-3:00   Analyzing and exploring CRISPR screen data for hypothesis generation
 
 ## Materials
+[CRISPR_Screen_Introduction.pptx](CRISPR_Screen_Introduction.pptx) contains general background on CRISPR screening technology. [CRISPR_Screen_Analysis.pptx](CRISPR_Screen_Analysis.pptx) contains information on the screen data analysed in the Jupyter notebook. 
+
 The sequencing data processing section of the course will use [sample_illumina_data.fastq](sample_illumina_data.fastq) and [hCRISPRiv2_sgRNA_list.xlsx](hCRISPRiv2_sgRNA_list.xlsx).
 
-The CRISPR screen analysis section of the course will use the Jupyter notebook [CRISPR_screen_analysis.ipynb](CRISPR_screen_analysis.ipynb) and the datasets in [CRISPR_screendata](CRISPR_screendata). The notebook can be run directly in your browser using Binder through this link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nolanmaier/2023_GeneticsBootcamp/HEAD?labpath=CRISPR_screen_analysis.ipynb)
+The CRISPR screen analysis section of the course will use the Jupyter notebook [CRISPR_screen_analysis.ipynb](CRISPR_screen_analysis.ipynb) and the datasets in [CRISPR_screendata](CRISPR_screendata). The conda requirements are in [environment.yml](environment.yml). The notebook can be run directly in your browser using Binder through this link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nolanmaier/2023_GeneticsBootcamp/HEAD?labpath=CRISPR_screen_analysis.ipynb)
 (you may need to disable ad blockers on your browser).
